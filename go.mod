@@ -1,4 +1,4 @@
-module github.com/ChrisHirsch/kuberhealthy-storage-check
+module github.com/sedflix/kuberhealthy-storage-check
 
 replace github.com/go-resty/resty => gopkg.in/resty.v1 v1.10.0
 
